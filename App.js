@@ -13,7 +13,7 @@ class App extends Component {
   render () {
     return (
       <View style={styles.container}>
-        <Text>This app push code testing !</Text>
+        <Text>This app push code testing penambahan !</Text>
       </View>
     )
   }
